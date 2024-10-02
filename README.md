@@ -2,7 +2,7 @@
 
 🪴 I’m currently learning TDD and Agile software team practices.
 
-🥦 I’m looking to collaborate on Java projects using TDD and more.
+🥦 I’m looking to collaborate on C++ projects, Java projects.
 
 🐉 How to reach me: mattg1827@gmail.com
 
