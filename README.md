@@ -1,8 +1,8 @@
 ## Hi there 👋 Matthew Ryan, here!
 
-🔋 I’m looking to collaborate on C++, Rust, and Web projects.
+🔋 I’m looking to collaborate on C++, GPU programming, and open-source projects. 
 
-🌊 Watercolor artist and avid bookreader. And ask me about my crystals. 
+🌊 Creative artist and avid bookreader. And ask me about my crystals. 
 
 🐾 How to reach me: mattg1827@gmail.com
 
