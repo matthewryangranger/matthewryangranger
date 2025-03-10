@@ -1,9 +1,9 @@
 ## Hi there 👋 Matthew Ryan, here!
 
-🔋 I’m looking to collaborate on C++, GPU programming, and open-source projects. 
+🔋 I'd love to collaborate on C++, GPU/Graphics programming, and Agile/Extreme Programming (XP) practices. 
 
-🌊 Creative artist and avid bookreader. And ask me about my crystals. 
+🌊 Creative artist and avid bookreader. And don't forget to ask me about my crystals. ;) 
 
-🐾 How to reach me: mattg1827@gmail.com
+🐾 How to reach me: -> mattg1827@gmail.com
 
-> Let's Connect! - Follow me to see what I am building!
+> Let's Connect! - Follow to see what I am building!
