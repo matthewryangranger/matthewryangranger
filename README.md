@@ -1,6 +1,6 @@
 ## Hi there 👋 Matthew Ryan, here!
 
-☁️ I'd love to collaborate on C++, GPU/Graphics programming, and Agile/Extreme Programming (XP) practices. 
+☁️ I'd love to collaborate on C++, Indie Game Stuff, and Agile/Extreme Programming (XP) practices. 
 
 🪴 Creative artist and avid bookreader. Love nature, - And don't forget to ask me about my crystals ;) 
 
